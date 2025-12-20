@@ -1,4 +1,16 @@
+
+
+
 # task_1_ieee_core_cascade
+Q1).
+
+The T flip flop is made by an XOR gate and a D flip flop , the XOR gaate is modelled using the Mux but the d flip flop is modelled
+behaviourally , when the D flip flop is modelled using the mux and with the XOR gate , the output is not what is desired.
+
+Below is the wavefrom for the T flip flop from the code uploaded
+
+<img width="952" height="560" alt="image" src="https://github.com/user-attachments/assets/57bb8f1d-7fcb-4deb-abea-803391aec820" />
+
 Q2).
 
 <img width="954" height="556" alt="q2a" src="https://github.com/user-attachments/assets/02dcfa1e-06d9-4796-a202-a8f64abf2804" />
